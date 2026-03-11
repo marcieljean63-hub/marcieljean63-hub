@@ -2,15 +2,18 @@
 
 ###
 
-<p align="left">Jean Marciel | Estudante de Análise e Desenvolvimento de Sistemas.<br>Focado em Python, lógica de programação e projetos práticos, buscando minha primeira oportunidade como desenvolvedor.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas focado em Python, lógica de programação e desenvolvimento de software. Buscando minha primeira oportunidade de estágio para aplicar conhecimentos e evoluir como desenvolvedor.</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">🚀 Projetos</h2>
 
 ###
 
-<p align="left">1️⃣ Estudando<br>• Python  <br>• Lógica de programação  <br>• Funções (def / return)  <br>• Expressões lambda  <br>• Tratamento de erros (try / except / finally)  <br>• f-strings  <br><br>2️⃣ Objetivo<br>• Conseguir meu primeiro estágio em tecnologia  <br>• Evoluir como desenvolvedor Python  <br>• Construir projetos práticos<br><br>3️⃣ Interesses<br>• Desenvolvimento de software  <br>• Resolver problemas com código  <br>• Aprender novas tecnologias</p>
+<p align="left">
+ -  💻 Portfólio pessoal (HTML e CSS)
+- 🐍 Exercícios de lógica em Python
+- 📊 Mini projetos de programação</p>
 
 ###
 
