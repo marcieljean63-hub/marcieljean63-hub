@@ -1,89 +1,106 @@
-# 👋 Olá, eu sou Jean Marciel
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🐍 Foco em Python e Desenvolvimento Back-end  
-💻 Construindo projetos práticos para meu portfólio  
-🚀 Em busca da minha primeira oportunidade na área de tecnologia
+# 👋 Olá, eu sou **Jean Marciel**
+
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+🐍 Python &nbsp;•&nbsp; ⚡ Flask &nbsp;•&nbsp; 🌐 HTML &nbsp;•&nbsp; 🎨 CSS
+
+**Desenvolvimento Back-end | Construindo projetos práticos | Buscando estágio em tecnologia**
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente
-focado em desenvolver meus conhecimentos em programação e Python.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Python e Desenvolvimento Back-end**.
 
-Gosto de aprender colocando a mão na massa e transformando ideias
-em projetos práticos.
+Atualmente estou desenvolvendo projetos práticos para aprimorar meus conhecimentos em programação e construir meu portfólio.
 
-Atualmente estou construindo meu portfólio e buscando minha primeira
-oportunidade profissional na área de Desenvolvimento de Software.
+Tenho interesse em **Desenvolvimento de Software** e busco uma oportunidade de estágio onde possa aplicar meus conhecimentos, aprender com uma equipe e continuar evoluindo profissionalmente.
 
 ---
 
 ## 🛠️ Tecnologias
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,vscode" />
+
+</div>
+
+---
+
+# 🚀 Projeto em destaque
+
+<div align="center">
+
+## 🏥 Sistema de Pronto Atendimento
+
+**Sistema web desenvolvido para gerenciamento de atendimentos em um pronto atendimento.**
+
+</div>
+
+### 💻 Tecnologias
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+</div>
 
-## 🚀 Projeto em destaque
+### ✨ Funcionalidades
 
-### 🏥 Sistema de Pronto Atendimento
+- ✅ Cadastro de pacientes
+- ✅ Geração de senhas
+- ✅ Listagem de atendimentos
+- ✅ Edição de registros
+- ✅ Exclusão de registros
+- ✅ Validação de CPF
+- ✅ Interface responsiva
 
-Sistema web desenvolvido para gerenciamento de atendimentos
-em uma unidade de pronto atendimento.
-
-**Tecnologias utilizadas:**
-
-- Python
-- Flask
-- HTML
-- CSS
-- SQLite
-
-**Funcionalidades:**
-
-- Cadastro de pacientes
-- Geração de senha
-- Listagem de atendimentos
-- Edição de registros
-- Exclusão de registros
-- Validação de CPF
-- Interface responsiva
+🔗 **[Ver projeto completo no GitHub](https://github.com/marcieljean63-hub/sistema-pronto-atendimento)**
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Em constante evolução
 
-- Python
-- Lógica de programação
-- Desenvolvimento Back-end
-- Flask
-- APIs
-- Desenvolvimento de projetos práticos
+```text
+🐍 Python
+🧠 Lógica de programação
+⚡ Desenvolvimento Back-end
+🌐 HTML e CSS
+🔌 APIs
+🚀 Desenvolvimento de projetos práticos
+```
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de estágio em Desenvolvimento de Software,
-onde eu possa aprender, contribuir com a equipe e continuar evoluindo
-como desenvolvedor.
+Busco uma oportunidade de **estágio em Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, contribuir com a equipe e continuar evoluindo profissionalmente.
 
 ---
 
 ## 📫 Contato
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/jean-marciel/
+<div align="center">
 
-🐙 GitHub:  
-https://github.com/marcieljean63-hub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-marciel/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcieljean63-hub)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Grandes conquistas começam com pequenos passos.
+
+</div>
