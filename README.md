@@ -14,11 +14,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Python e Desenvolvimento Back-end**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Python e Desenvolvimento Back-end.
 
-Atualmente estou desenvolvendo projetos práticos para aprimorar meus conhecimentos em programação e construir meu portfólio.
+Tenho desenvolvido projetos práticos para transformar meus estudos em experiência, colocando em prática conceitos de programação e desenvolvimento web.
 
-Tenho interesse em **Desenvolvimento de Software** e busco uma oportunidade de estágio onde possa aplicar meus conhecimentos, aprender com uma equipe e continuar evoluindo profissionalmente.
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, contribuindo com a equipe, aprendendo na prática e evoluindo continuamente como desenvolvedor.
 
 ---
 
@@ -77,14 +77,14 @@ Tenho interesse em **Desenvolvimento de Software** e busco uma oportunidade de e
 
 ## 📚 Em constante evolução
 
-```text
-🐍 Python
-🧠 Lógica de programação
-⚡ Desenvolvimento Back-end
-🌐 HTML e CSS
-🔌 APIs
-🚀 Desenvolvimento de projetos práticos
-```
+Atualmente estou aprofundando meus conhecimentos em:
+
+- 🐍 Python
+- 🧠 Lógica de programação
+- ⚡ Desenvolvimento Back-end
+- 🌐 HTML e CSS
+- 🔌 APIs
+- 🚀 Desenvolvimento de projetos práticos
 
 ---
 
